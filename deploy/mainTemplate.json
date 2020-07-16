@@ -145,7 +145,7 @@
                   "[resourceId('Microsoft.Web/sites', concat(variables('uSiteName'),''))]"
                ],
                "properties": {
-                  "RepoUrl": "https://github.com/MarcelMeurer/Azure-Starter-for-WVD.git",
+                  "RepoUrl": "https://github.com/josh-bennett-cubesys/Azure-Starter-for-WVD.git",
                   "branch": "master",
                   "IsManualIntegration": true
                }
